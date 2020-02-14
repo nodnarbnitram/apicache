@@ -1,6 +1,6 @@
 var url = require('url');
 var MemoryCache = require('./memory-cache');
-var pkg = require('../../package.json');
+var pkg = require('../package.json');
 
 var t = {
   ms: 1,
