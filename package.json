@@ -50,7 +50,7 @@
     "pretty-quick": "^1.11.1",
     "restify": "^7.7.0",
     "restify-etag-cache": "^1.0.12",
-    "supertest": "^4.0.2"
+    "supertest": "^5.0.0"
   },
   "dependencies": {},
   "husky": {
