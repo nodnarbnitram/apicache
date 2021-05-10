@@ -46,7 +46,7 @@
     "husky": "^3.0.4",
     "mocha": "^7.0.0",
     "nyc": "^13.3.0",
-    "prettier": "^1.18.2",
+    "prettier": "^2.3.0",
     "pretty-quick": "^1.11.1",
     "restify": "^7.7.0",
     "restify-etag-cache": "^1.0.12",
